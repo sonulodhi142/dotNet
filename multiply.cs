@@ -1,5 +1,5 @@
 using System;
-class addition
+class multiplication
 {
 	public static void Main()
 	{
