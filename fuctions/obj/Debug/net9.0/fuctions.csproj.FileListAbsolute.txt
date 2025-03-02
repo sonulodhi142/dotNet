@@ -1,0 +1,15 @@
+G:\dotNet\fuctions\obj\Debug\net9.0\fuctions.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\fuctions\obj\Debug\net9.0\fuctions.AssemblyInfoInputs.cache
+G:\dotNet\fuctions\obj\Debug\net9.0\fuctions.AssemblyInfo.cs
+G:\dotNet\fuctions\obj\Debug\net9.0\fuctions.csproj.CoreCompileInputs.cache
+G:\dotNet\fuctions\obj\Debug\net9.0\fuctions.sourcelink.json
+G:\dotNet\fuctions\bin\Debug\net9.0\fuctions.exe
+G:\dotNet\fuctions\bin\Debug\net9.0\fuctions.deps.json
+G:\dotNet\fuctions\bin\Debug\net9.0\fuctions.runtimeconfig.json
+G:\dotNet\fuctions\bin\Debug\net9.0\fuctions.dll
+G:\dotNet\fuctions\bin\Debug\net9.0\fuctions.pdb
+G:\dotNet\fuctions\obj\Debug\net9.0\fuctions.dll
+G:\dotNet\fuctions\obj\Debug\net9.0\refint\fuctions.dll
+G:\dotNet\fuctions\obj\Debug\net9.0\fuctions.pdb
+G:\dotNet\fuctions\obj\Debug\net9.0\fuctions.genruntimeconfig.cache
+G:\dotNet\fuctions\obj\Debug\net9.0\ref\fuctions.dll

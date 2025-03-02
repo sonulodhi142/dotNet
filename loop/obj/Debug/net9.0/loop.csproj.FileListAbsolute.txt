@@ -1,0 +1,15 @@
+G:\dotNet\loop\bin\Debug\net9.0\loop.exe
+G:\dotNet\loop\bin\Debug\net9.0\loop.deps.json
+G:\dotNet\loop\bin\Debug\net9.0\loop.runtimeconfig.json
+G:\dotNet\loop\bin\Debug\net9.0\loop.dll
+G:\dotNet\loop\bin\Debug\net9.0\loop.pdb
+G:\dotNet\loop\obj\Debug\net9.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\loop\obj\Debug\net9.0\loop.AssemblyInfoInputs.cache
+G:\dotNet\loop\obj\Debug\net9.0\loop.AssemblyInfo.cs
+G:\dotNet\loop\obj\Debug\net9.0\loop.csproj.CoreCompileInputs.cache
+G:\dotNet\loop\obj\Debug\net9.0\loop.sourcelink.json
+G:\dotNet\loop\obj\Debug\net9.0\loop.dll
+G:\dotNet\loop\obj\Debug\net9.0\refint\loop.dll
+G:\dotNet\loop\obj\Debug\net9.0\loop.pdb
+G:\dotNet\loop\obj\Debug\net9.0\loop.genruntimeconfig.cache
+G:\dotNet\loop\obj\Debug\net9.0\ref\loop.dll

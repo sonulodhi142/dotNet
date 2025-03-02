@@ -1,0 +1,15 @@
+G:\dotNet\si\bin\Debug\net9.0\si.exe
+G:\dotNet\si\bin\Debug\net9.0\si.deps.json
+G:\dotNet\si\bin\Debug\net9.0\si.runtimeconfig.json
+G:\dotNet\si\bin\Debug\net9.0\si.dll
+G:\dotNet\si\bin\Debug\net9.0\si.pdb
+G:\dotNet\si\obj\Debug\net9.0\si.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\si\obj\Debug\net9.0\si.AssemblyInfoInputs.cache
+G:\dotNet\si\obj\Debug\net9.0\si.AssemblyInfo.cs
+G:\dotNet\si\obj\Debug\net9.0\si.csproj.CoreCompileInputs.cache
+G:\dotNet\si\obj\Debug\net9.0\si.sourcelink.json
+G:\dotNet\si\obj\Debug\net9.0\si.dll
+G:\dotNet\si\obj\Debug\net9.0\refint\si.dll
+G:\dotNet\si\obj\Debug\net9.0\si.pdb
+G:\dotNet\si\obj\Debug\net9.0\si.genruntimeconfig.cache
+G:\dotNet\si\obj\Debug\net9.0\ref\si.dll
