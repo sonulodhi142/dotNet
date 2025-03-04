@@ -31,13 +31,37 @@ class Program
 
         Dictionary<string, string> dictionary = new Dictionary<string, string>();
 
-        dictionary.Add("A", "apple");
-        dictionary.Add("B", "ball");
-        dictionary.Add("C", "cat");
-        Console.WriteLine("inter the key and with respect to their value:");
-        string latter = Console.ReadLine();
-        string fruit = Console.ReadLine();
-        dictionary.Add(latter, fruit);
+        // dictionary.Add("A", "apple");
+        // dictionary.Add("B", "ball");
+        // dictionary.Add("C", "cat");
+        
+
+        string check = "yes";
+
+        while (check == "yes"){
+            Console.WriteLine("inter the key and with respect to their value:");
+            string latter =Console.ReadLine();
+            string fruit = Console.ReadLine();
+            if (dictionary.ContainsKey(latter)){
+                Console.WriteLine("the Key is already exists:");
+            }
+            else{
+                
+            dictionary.Add(latter, fruit);
+            }
+
+            Console.WriteLine("<-------The Data is Succesfully Added to List------>");
+
+
+            Console.WriteLine("Are you add some more Data? yes/no:");
+            check = Console.ReadLine();
+
+            int num = Convert.ToInt32(Console.ReadLine());
+            
+
+        }
+
+
 
         foreach(string key in dictionary.Keys){
             Console.WriteLine($"{key}:{dictionary[key]}");

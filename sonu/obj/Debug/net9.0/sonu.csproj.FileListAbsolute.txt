@@ -1,0 +1,15 @@
+G:\dotNet\sonu\bin\Debug\net9.0\sonu.exe
+G:\dotNet\sonu\bin\Debug\net9.0\sonu.deps.json
+G:\dotNet\sonu\bin\Debug\net9.0\sonu.runtimeconfig.json
+G:\dotNet\sonu\bin\Debug\net9.0\sonu.dll
+G:\dotNet\sonu\bin\Debug\net9.0\sonu.pdb
+G:\dotNet\sonu\obj\Debug\net9.0\sonu.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\sonu\obj\Debug\net9.0\sonu.AssemblyInfoInputs.cache
+G:\dotNet\sonu\obj\Debug\net9.0\sonu.AssemblyInfo.cs
+G:\dotNet\sonu\obj\Debug\net9.0\sonu.csproj.CoreCompileInputs.cache
+G:\dotNet\sonu\obj\Debug\net9.0\sonu.sourcelink.json
+G:\dotNet\sonu\obj\Debug\net9.0\sonu.dll
+G:\dotNet\sonu\obj\Debug\net9.0\refint\sonu.dll
+G:\dotNet\sonu\obj\Debug\net9.0\sonu.pdb
+G:\dotNet\sonu\obj\Debug\net9.0\sonu.genruntimeconfig.cache
+G:\dotNet\sonu\obj\Debug\net9.0\ref\sonu.dll
