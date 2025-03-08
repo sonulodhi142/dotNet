@@ -10,7 +10,7 @@ class Dog{
 
 class Cat : Dog{
     public string CatName = "";
-    public void Meaw(){
+    public void sound(){
         Console.WriteLine("I am a child Class: "+CatName);
     }
 }
@@ -32,7 +32,6 @@ class Program{
         cow.CowName = "Rani";
 
         cow.sound();
-        cow.Meaw();
         cow.cow1();
 
     }

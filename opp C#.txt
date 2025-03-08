@@ -1,0 +1,305 @@
+# 🔷 **Object-Oriented Programming (OOP) Concepts in C# – Detailed Explanation**
+
+---
+
+## 🎯 **Introduction to OOP**
+Object-Oriented Programming (**OOP**) is a programming paradigm that focuses on **objects** and **classes** to structure and organize code. It enhances **reusability, modularity, scalability, and maintainability**.
+
+C# is a strongly typed, object-oriented language that fully supports OOP principles.
+
+---
+
+## 🏛️ **Four Pillars of OOP**
+1. **Encapsulation** → Hides data and protects it from unauthorized access.
+2. **Abstraction** → Hides unnecessary details and only shows relevant information.
+3. **Inheritance** → Allows a class to derive properties and behaviors from another class.
+4. **Polymorphism** → Enables methods to have multiple forms (overloading/overriding).
+
+---
+
+# 🔹 **1. Classes and Objects**
+## ✅ **What is a Class?**
+A **class** is a blueprint/template that defines properties (**fields**) and behaviors (**methods**) of objects.
+
+## ✅ **What is an Object?**
+An **object** is an instance of a class that holds actual data and can execute behaviors.
+
+### **Example of Class and Object in C#:**
+```csharp
+using System;
+
+class Car
+{
+    // Fields (Attributes)
+    public string brand;
+    public int speed;
+
+    // Method (Behavior)
+    public void Drive()
+    {
+        Console.WriteLine($"{brand} is driving at {speed} km/h.");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        // Creating an object of class Car
+        Car myCar = new Car();
+        myCar.brand = "Toyota";
+        myCar.speed = 80;
+        myCar.Drive();  // Output: Toyota is driving at 80 km/h.
+    }
+}
+```
+
+---
+
+# 🔹 **2. Encapsulation (Data Hiding)**
+Encapsulation means **hiding data (fields) and restricting direct access**, allowing controlled access via **getters and setters**.
+
+### **Why Encapsulation?**
+- Prevents **unauthorized access**.
+- Ensures **data integrity**.
+- Protects **sensitive data**.
+
+### **Example of Encapsulation:**
+```csharp
+class BankAccount
+{
+    private double balance; // Private field
+
+    // Public method to deposit money
+    public void Deposit(double amount)
+    {
+        if (amount > 0)
+        {
+            balance += amount;
+        }
+    }
+
+    // Public method to get balance
+    public double GetBalance()
+    {
+        return balance;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        BankAccount acc = new BankAccount();
+        acc.Deposit(500);
+        Console.WriteLine("Balance: " + acc.GetBalance());  // Output: Balance: 500
+    }
+}
+```
+
+---
+
+# 🔹 **3. Abstraction (Hiding Implementation)**
+Abstraction **hides complex implementation details** and only exposes necessary functionalities.
+
+### **Why Abstraction?**
+- Reduces **complexity**.
+- Increases **code usability**.
+- Improves **security**.
+
+### **Example of Abstraction using Abstract Class:**
+```csharp
+abstract class Animal
+{
+    public abstract void MakeSound();  // Abstract method (no body)
+}
+
+class Dog : Animal
+{
+    public override void MakeSound()
+    {
+        Console.WriteLine("Dog barks.");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Animal myDog = new Dog();
+        myDog.MakeSound();  // Output: Dog barks.
+    }
+}
+```
+
+---
+
+# 🔹 **4. Inheritance (Code Reusability)**
+Inheritance allows a **child (derived) class** to inherit properties and behaviors from a **parent (base) class**.
+
+### **Types of Inheritance in C#:**
+1. **Single Inheritance** – One class inherits from another.
+2. **Multilevel Inheritance** – A class inherits from another derived class.
+3. **Hierarchical Inheritance** – Multiple classes inherit from a single base class.
+4. **Multiple Inheritance (via Interfaces)** – C# supports multiple inheritance through interfaces.
+
+### **Example of Inheritance:**
+```csharp
+class Animal
+{
+    public void Eat()
+    {
+        Console.WriteLine("This animal eats food.");
+    }
+}
+
+class Dog : Animal
+{
+    public void Bark()
+    {
+        Console.WriteLine("Dog barks.");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Dog myDog = new Dog();
+        myDog.Eat();  // Output: This animal eats food.
+        myDog.Bark(); // Output: Dog barks.
+    }
+}
+```
+
+---
+
+# 🔹 **5. Polymorphism (Multiple Forms)**
+Polymorphism allows **a method to have different behaviors** based on the object that calls it.
+
+### **Types of Polymorphism:**
+1. **Method Overloading (Compile-time Polymorphism)**  
+2. **Method Overriding (Run-time Polymorphism)**
+
+### ✅ **Method Overloading Example (Compile-time Polymorphism)**
+```csharp
+class MathOperations
+{
+    public int Add(int a, int b)
+    {
+        return a + b;
+    }
+
+    public double Add(double a, double b)
+    {
+        return a + b;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        MathOperations math = new MathOperations();
+        Console.WriteLine(math.Add(5, 10));     // Output: 15
+        Console.WriteLine(math.Add(5.5, 2.3)); // Output: 7.8
+    }
+}
+```
+
+### ✅ **Method Overriding Example (Run-time Polymorphism)**
+```csharp
+class Animal
+{
+    public virtual void MakeSound()
+    {
+        Console.WriteLine("Animal makes a sound.");
+    }
+}
+
+class Dog : Animal
+{
+    public override void MakeSound()
+    {
+        Console.WriteLine("Dog barks.");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Animal myAnimal = new Dog();
+        myAnimal.MakeSound();  // Output: Dog barks.
+    }
+}
+```
+
+---
+
+# 🔹 **6. Constructor and Destructor**
+### ✅ **Constructor**
+A **constructor** is a special method that initializes an object when it is created.
+
+### **Types of Constructors in C#:**
+1. **Default Constructor** – No parameters.
+2. **Parameterized Constructor** – Accepts parameters.
+3. **Copy Constructor** – Creates a copy of an existing object.
+4. **Static Constructor** – Initializes static members.
+
+### **Example of Constructor:**
+```csharp
+class Person
+{
+    public string Name;
+
+    // Constructor
+    public Person(string name)
+    {
+        Name = name;
+        Console.WriteLine("Constructor called for " + Name);
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Person p1 = new Person("John");  // Output: Constructor called for John
+    }
+}
+```
+
+### ✅ **Destructor**
+A **destructor** is a special method that cleans up resources before an object is destroyed.
+
+### **Example of Destructor:**
+```csharp
+class Person
+{
+    public Person()
+    {
+        Console.WriteLine("Constructor called.");
+    }
+
+    ~Person()
+    {
+        Console.WriteLine("Destructor called.");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Person p = new Person();  // Output: Constructor called.
+    }
+}
+```
+
+### **Why Use a Destructor?**
+- To **release unmanaged resources**.
+- Runs automatically when the object goes out of scope.
+
+
+

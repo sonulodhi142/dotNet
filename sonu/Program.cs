@@ -13,6 +13,11 @@ class Program{
         // list.Clear();
         list.Reverse();
 
+        Console.WriteLine("enter the num:");
+        int num = Convert.ToInt32(Console.ReadLine("please enter the num:"));
+
+        list.Add(num);
+
         foreach(int i in list){
             Console.WriteLine(i);
         }

@@ -1,0 +1,15 @@
+G:\dotNet\BaseKeyword\bin\Debug\net9.0\BadeKeyword.exe
+G:\dotNet\BaseKeyword\bin\Debug\net9.0\BadeKeyword.deps.json
+G:\dotNet\BaseKeyword\bin\Debug\net9.0\BadeKeyword.runtimeconfig.json
+G:\dotNet\BaseKeyword\bin\Debug\net9.0\BadeKeyword.dll
+G:\dotNet\BaseKeyword\bin\Debug\net9.0\BadeKeyword.pdb
+G:\dotNet\BaseKeyword\obj\Debug\net9.0\BadeKeyword.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\BaseKeyword\obj\Debug\net9.0\BadeKeyword.AssemblyInfoInputs.cache
+G:\dotNet\BaseKeyword\obj\Debug\net9.0\BadeKeyword.AssemblyInfo.cs
+G:\dotNet\BaseKeyword\obj\Debug\net9.0\BadeKeyword.csproj.CoreCompileInputs.cache
+G:\dotNet\BaseKeyword\obj\Debug\net9.0\BadeKeyword.sourcelink.json
+G:\dotNet\BaseKeyword\obj\Debug\net9.0\BadeKeyword.dll
+G:\dotNet\BaseKeyword\obj\Debug\net9.0\refint\BadeKeyword.dll
+G:\dotNet\BaseKeyword\obj\Debug\net9.0\BadeKeyword.pdb
+G:\dotNet\BaseKeyword\obj\Debug\net9.0\BadeKeyword.genruntimeconfig.cache
+G:\dotNet\BaseKeyword\obj\Debug\net9.0\ref\BadeKeyword.dll
