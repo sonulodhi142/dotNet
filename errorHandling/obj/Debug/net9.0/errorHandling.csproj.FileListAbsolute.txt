@@ -1,0 +1,15 @@
+G:\dotNet\errorHandling\obj\Debug\net9.0\errorHandling.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\errorHandling\obj\Debug\net9.0\errorHandling.AssemblyInfoInputs.cache
+G:\dotNet\errorHandling\obj\Debug\net9.0\errorHandling.AssemblyInfo.cs
+G:\dotNet\errorHandling\obj\Debug\net9.0\errorHandling.csproj.CoreCompileInputs.cache
+G:\dotNet\errorHandling\obj\Debug\net9.0\errorHandling.sourcelink.json
+G:\dotNet\errorHandling\bin\Debug\net9.0\errorHandling.exe
+G:\dotNet\errorHandling\bin\Debug\net9.0\errorHandling.deps.json
+G:\dotNet\errorHandling\bin\Debug\net9.0\errorHandling.runtimeconfig.json
+G:\dotNet\errorHandling\bin\Debug\net9.0\errorHandling.dll
+G:\dotNet\errorHandling\bin\Debug\net9.0\errorHandling.pdb
+G:\dotNet\errorHandling\obj\Debug\net9.0\errorHandling.dll
+G:\dotNet\errorHandling\obj\Debug\net9.0\refint\errorHandling.dll
+G:\dotNet\errorHandling\obj\Debug\net9.0\errorHandling.pdb
+G:\dotNet\errorHandling\obj\Debug\net9.0\errorHandling.genruntimeconfig.cache
+G:\dotNet\errorHandling\obj\Debug\net9.0\ref\errorHandling.dll
