@@ -12,9 +12,7 @@ class Program {
         }
 
         // using LINQ
-        var result = from num in list
-                     where num > 4
-                     select num;
+        var result = list.Where(x => x > 5);
 
         foreach (int num in result) {
             Console.WriteLine(num);
