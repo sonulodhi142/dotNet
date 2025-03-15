@@ -7,10 +7,10 @@ class Program{
             Console.Write("Please Enter your age: ");
             int age = Convert.ToInt32(Console.ReadLine());
             if(age >= 18){
-                Console.WriteLine("You are eligible to vote:");
+                Console.WriteLine("\n\nYou are eligible to vote:\n");
             }
             else{
-                Console.WriteLine("\n\nOops! You are not eligible to vote:");
+                Console.WriteLine("\n\nOops! You are not eligible to vote:\n");
             }
         }
         catch(Exception ex){
