@@ -1,0 +1,15 @@
+G:\dotNet\vote\obj\Debug\net9.0\vote.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\vote\obj\Debug\net9.0\vote.AssemblyInfoInputs.cache
+G:\dotNet\vote\obj\Debug\net9.0\vote.AssemblyInfo.cs
+G:\dotNet\vote\obj\Debug\net9.0\vote.csproj.CoreCompileInputs.cache
+G:\dotNet\vote\obj\Debug\net9.0\vote.sourcelink.json
+G:\dotNet\vote\bin\Debug\net9.0\vote.exe
+G:\dotNet\vote\bin\Debug\net9.0\vote.deps.json
+G:\dotNet\vote\bin\Debug\net9.0\vote.runtimeconfig.json
+G:\dotNet\vote\bin\Debug\net9.0\vote.dll
+G:\dotNet\vote\bin\Debug\net9.0\vote.pdb
+G:\dotNet\vote\obj\Debug\net9.0\vote.dll
+G:\dotNet\vote\obj\Debug\net9.0\refint\vote.dll
+G:\dotNet\vote\obj\Debug\net9.0\vote.pdb
+G:\dotNet\vote\obj\Debug\net9.0\vote.genruntimeconfig.cache
+G:\dotNet\vote\obj\Debug\net9.0\ref\vote.dll
