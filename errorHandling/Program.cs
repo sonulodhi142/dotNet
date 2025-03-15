@@ -9,7 +9,8 @@ class Program{
             Console.WriteLine(num1/num2);
         }
         catch(Exception e){
-            Console.WriteLine(e.ToString());
+            Console.WriteLine("The error is : "+e.ToString());
+            
         }
         finally{
             Console.WriteLine("Program end:");
