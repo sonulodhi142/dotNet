@@ -23,15 +23,15 @@ class Program{
         //     Console.WriteLine(ex.ToString());
         // }
 
-        Console.Write("Enter Your age: ");
-        int age = Convert.ToInt32(Console.ReadLine());
+        // Console.Write("Enter Your age: ");
+        // int age = Convert.ToInt32(Console.ReadLine());
 
-        if (age < 18){
-            throw new Exception("you are not eligible for vote");
-        }
-        else{
-            Console.WriteLine("you are eligible for vote");
-        }
+        // if (age < 18){
+        //     throw new Exception("you are not eligible for vote");
+        // }
+        // else{
+        //     Console.WriteLine("you are eligible for vote");
+        // }
 
 
     }
