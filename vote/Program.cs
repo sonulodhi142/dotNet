@@ -12,6 +12,12 @@ class Program{
             else{
                 Console.WriteLine("\n\nOops! You are not eligible to vote:\n");
             }
+
+            int[] array = { 1, 2, 3,};
+            Console.WriteLine(array[age]);
+        }
+        catch(IndexOutOfRangeException ex){
+            Console.WriteLine("Error: Array index is out of range.");
         }
         catch(Exception ex){
             Console.WriteLine(ex.ToString());
