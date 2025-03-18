@@ -67,14 +67,14 @@ class Program
             num1 = num2;
             num2 = temp;
 
-            Console.WriteLine("\n After Swaping the value:- \n");
+            Console.WriteLine("\nAfter Swaping the value:- \n");
             Console.WriteLine($"num1 = {num1} \n num2 = {num2}");
         }
         catch (Exception ex){
             Console.WriteLine("Error:"+ex.Message);
         }
         finally{
-            Console.WriteLine("code end::-");
+            Console.WriteLine("\n\n code end::-");
         }
 
 
