@@ -61,14 +61,14 @@ class Program
             int num2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("\nBefore Swaping the value:- \n");
-            Console.WriteLine($"num1 = {num1} \n num2 = {num2}");
-
+            Console.WriteLine($" num1 = {num1} \n num2 = {num2}");
+ 
             int temp = num1;
             num1 = num2;
             num2 = temp;
 
             Console.WriteLine("\nAfter Swaping the value:- \n");
-            Console.WriteLine($"num1 = {num1} \n num2 = {num2}");
+            Console.WriteLine($" num1 = {num1} \n num2 = {num2}");
         }
         catch (Exception ex){
             Console.WriteLine("Error:"+ex.Message);
