@@ -71,7 +71,7 @@ class Program
             Console.WriteLine($" num1 = {num1} \n num2 = {num2}");
         }
         catch (Exception ex){
-            Console.WriteLine("Error:"+ex.Message);
+            Console.WriteLine("\n\n Error:"+ex.Message);
         }
         finally{
             Console.WriteLine("\n\n code end::-");
