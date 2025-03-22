@@ -27,7 +27,7 @@ class Program
                     addStudents();
                     break;
                 case 3:
-                    viewStudents();
+                    updateStudent();
                     break;
                 case 4:
                     deleteStudent();
@@ -73,12 +73,30 @@ class Program
             Console.Write("Enter the Id of Student::");
             int id = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 0; i <= students.Count - 1; i++) // Iterate in reverse
-            {
-                if ((int)students[i]["id"] == id)
-                {
+            for (int i = 0; i <= students.Count - 1; i++) {
+                if ((int)students[i]["id"] == id){
                     students.RemoveAt(i);
-                    Console.WriteLine("Student deleted successfully.");
+                    Console.WriteLine("Student deleted successfully.\n");
+                    return;
+                }
+            }
+
+            Console.WriteLine("Student not found.");
+        }
+
+        void updateStudent()
+        {
+            Console.Write("Enter the Id of Student::");
+            int id = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 0; i <= students.Count - 1; i++) {
+                if ((int)students[i]["id"] == id){
+                    Console.WriteLine("Update the Student's Details::");
+                    Console.Write("Name:: ");
+                    students[i]["name"] = Console.ReadLine();
+                    Console.Write("Grade:: ");
+                    students[i]["grade"] = Console.ReadLine();
+                    Console.WriteLine("The student data is Succesfully updated in the list:-\n\n");
                     return;
                 }
             }
