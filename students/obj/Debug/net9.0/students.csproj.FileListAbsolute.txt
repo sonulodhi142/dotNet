@@ -1,0 +1,15 @@
+G:\dotNet\students\bin\Debug\net9.0\students.exe
+G:\dotNet\students\bin\Debug\net9.0\students.deps.json
+G:\dotNet\students\bin\Debug\net9.0\students.runtimeconfig.json
+G:\dotNet\students\bin\Debug\net9.0\students.dll
+G:\dotNet\students\bin\Debug\net9.0\students.pdb
+G:\dotNet\students\obj\Debug\net9.0\students.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\students\obj\Debug\net9.0\students.AssemblyInfoInputs.cache
+G:\dotNet\students\obj\Debug\net9.0\students.AssemblyInfo.cs
+G:\dotNet\students\obj\Debug\net9.0\students.csproj.CoreCompileInputs.cache
+G:\dotNet\students\obj\Debug\net9.0\students.sourcelink.json
+G:\dotNet\students\obj\Debug\net9.0\students.dll
+G:\dotNet\students\obj\Debug\net9.0\refint\students.dll
+G:\dotNet\students\obj\Debug\net9.0\students.pdb
+G:\dotNet\students\obj\Debug\net9.0\students.genruntimeconfig.cache
+G:\dotNet\students\obj\Debug\net9.0\ref\students.dll
