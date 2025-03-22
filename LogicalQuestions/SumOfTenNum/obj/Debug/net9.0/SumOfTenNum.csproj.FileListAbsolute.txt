@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\SumOfTenNum\obj\Debug\net9.0\SumOfTenNum.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\SumOfTenNum\obj\Debug\net9.0\SumOfTenNum.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\SumOfTenNum\obj\Debug\net9.0\SumOfTenNum.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\SumOfTenNum\obj\Debug\net9.0\SumOfTenNum.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\SumOfTenNum\obj\Debug\net9.0\SumOfTenNum.sourcelink.json
+G:\dotNet\LogicalQuestions\SumOfTenNum\bin\Debug\net9.0\SumOfTenNum.exe
+G:\dotNet\LogicalQuestions\SumOfTenNum\bin\Debug\net9.0\SumOfTenNum.deps.json
+G:\dotNet\LogicalQuestions\SumOfTenNum\bin\Debug\net9.0\SumOfTenNum.runtimeconfig.json
+G:\dotNet\LogicalQuestions\SumOfTenNum\bin\Debug\net9.0\SumOfTenNum.dll
+G:\dotNet\LogicalQuestions\SumOfTenNum\bin\Debug\net9.0\SumOfTenNum.pdb
+G:\dotNet\LogicalQuestions\SumOfTenNum\obj\Debug\net9.0\SumOfTenNum.dll
+G:\dotNet\LogicalQuestions\SumOfTenNum\obj\Debug\net9.0\refint\SumOfTenNum.dll
+G:\dotNet\LogicalQuestions\SumOfTenNum\obj\Debug\net9.0\SumOfTenNum.pdb
+G:\dotNet\LogicalQuestions\SumOfTenNum\obj\Debug\net9.0\SumOfTenNum.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\SumOfTenNum\obj\Debug\net9.0\ref\SumOfTenNum.dll
