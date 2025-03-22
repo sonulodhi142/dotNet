@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\Factorial\bin\Debug\net9.0\Factorial.exe
+G:\dotNet\LogicalQuestions\Factorial\bin\Debug\net9.0\Factorial.deps.json
+G:\dotNet\LogicalQuestions\Factorial\bin\Debug\net9.0\Factorial.runtimeconfig.json
+G:\dotNet\LogicalQuestions\Factorial\bin\Debug\net9.0\Factorial.dll
+G:\dotNet\LogicalQuestions\Factorial\bin\Debug\net9.0\Factorial.pdb
+G:\dotNet\LogicalQuestions\Factorial\obj\Debug\net9.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\Factorial\obj\Debug\net9.0\Factorial.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\Factorial\obj\Debug\net9.0\Factorial.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\Factorial\obj\Debug\net9.0\Factorial.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\Factorial\obj\Debug\net9.0\Factorial.sourcelink.json
+G:\dotNet\LogicalQuestions\Factorial\obj\Debug\net9.0\Factorial.dll
+G:\dotNet\LogicalQuestions\Factorial\obj\Debug\net9.0\refint\Factorial.dll
+G:\dotNet\LogicalQuestions\Factorial\obj\Debug\net9.0\Factorial.pdb
+G:\dotNet\LogicalQuestions\Factorial\obj\Debug\net9.0\Factorial.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\Factorial\obj\Debug\net9.0\ref\Factorial.dll
