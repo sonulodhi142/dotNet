@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\ReverseString\obj\Debug\net9.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\ReverseString\obj\Debug\net9.0\ReverseString.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\ReverseString\obj\Debug\net9.0\ReverseString.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\ReverseString\obj\Debug\net9.0\ReverseString.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\ReverseString\obj\Debug\net9.0\ReverseString.sourcelink.json
+G:\dotNet\LogicalQuestions\ReverseString\bin\Debug\net9.0\ReverseString.exe
+G:\dotNet\LogicalQuestions\ReverseString\bin\Debug\net9.0\ReverseString.deps.json
+G:\dotNet\LogicalQuestions\ReverseString\bin\Debug\net9.0\ReverseString.runtimeconfig.json
+G:\dotNet\LogicalQuestions\ReverseString\bin\Debug\net9.0\ReverseString.dll
+G:\dotNet\LogicalQuestions\ReverseString\bin\Debug\net9.0\ReverseString.pdb
+G:\dotNet\LogicalQuestions\ReverseString\obj\Debug\net9.0\ReverseString.dll
+G:\dotNet\LogicalQuestions\ReverseString\obj\Debug\net9.0\refint\ReverseString.dll
+G:\dotNet\LogicalQuestions\ReverseString\obj\Debug\net9.0\ReverseString.pdb
+G:\dotNet\LogicalQuestions\ReverseString\obj\Debug\net9.0\ReverseString.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\ReverseString\obj\Debug\net9.0\ref\ReverseString.dll
