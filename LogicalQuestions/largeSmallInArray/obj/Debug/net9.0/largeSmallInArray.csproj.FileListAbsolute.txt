@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\largeSmallInArray\bin\Debug\net9.0\largeSmallInArray.exe
+G:\dotNet\LogicalQuestions\largeSmallInArray\bin\Debug\net9.0\largeSmallInArray.deps.json
+G:\dotNet\LogicalQuestions\largeSmallInArray\bin\Debug\net9.0\largeSmallInArray.runtimeconfig.json
+G:\dotNet\LogicalQuestions\largeSmallInArray\bin\Debug\net9.0\largeSmallInArray.dll
+G:\dotNet\LogicalQuestions\largeSmallInArray\bin\Debug\net9.0\largeSmallInArray.pdb
+G:\dotNet\LogicalQuestions\largeSmallInArray\obj\Debug\net9.0\largeSmallInArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\largeSmallInArray\obj\Debug\net9.0\largeSmallInArray.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\largeSmallInArray\obj\Debug\net9.0\largeSmallInArray.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\largeSmallInArray\obj\Debug\net9.0\largeSmallInArray.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\largeSmallInArray\obj\Debug\net9.0\largeSmallInArray.sourcelink.json
+G:\dotNet\LogicalQuestions\largeSmallInArray\obj\Debug\net9.0\largeSmallInArray.dll
+G:\dotNet\LogicalQuestions\largeSmallInArray\obj\Debug\net9.0\refint\largeSmallInArray.dll
+G:\dotNet\LogicalQuestions\largeSmallInArray\obj\Debug\net9.0\largeSmallInArray.pdb
+G:\dotNet\LogicalQuestions\largeSmallInArray\obj\Debug\net9.0\largeSmallInArray.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\largeSmallInArray\obj\Debug\net9.0\ref\largeSmallInArray.dll
