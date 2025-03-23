@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\duplicateInArray\bin\Debug\net9.0\duplicateInArray.exe
+G:\dotNet\LogicalQuestions\duplicateInArray\bin\Debug\net9.0\duplicateInArray.deps.json
+G:\dotNet\LogicalQuestions\duplicateInArray\bin\Debug\net9.0\duplicateInArray.runtimeconfig.json
+G:\dotNet\LogicalQuestions\duplicateInArray\bin\Debug\net9.0\duplicateInArray.dll
+G:\dotNet\LogicalQuestions\duplicateInArray\bin\Debug\net9.0\duplicateInArray.pdb
+G:\dotNet\LogicalQuestions\duplicateInArray\obj\Debug\net9.0\duplicateInArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\duplicateInArray\obj\Debug\net9.0\duplicateInArray.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\duplicateInArray\obj\Debug\net9.0\duplicateInArray.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\duplicateInArray\obj\Debug\net9.0\duplicateInArray.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\duplicateInArray\obj\Debug\net9.0\duplicateInArray.sourcelink.json
+G:\dotNet\LogicalQuestions\duplicateInArray\obj\Debug\net9.0\duplicateInArray.dll
+G:\dotNet\LogicalQuestions\duplicateInArray\obj\Debug\net9.0\refint\duplicateInArray.dll
+G:\dotNet\LogicalQuestions\duplicateInArray\obj\Debug\net9.0\duplicateInArray.pdb
+G:\dotNet\LogicalQuestions\duplicateInArray\obj\Debug\net9.0\duplicateInArray.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\duplicateInArray\obj\Debug\net9.0\ref\duplicateInArray.dll
