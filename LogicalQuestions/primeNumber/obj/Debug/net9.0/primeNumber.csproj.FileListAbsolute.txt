@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\primeNumber\bin\Debug\net9.0\primeNumber.exe
+G:\dotNet\LogicalQuestions\primeNumber\bin\Debug\net9.0\primeNumber.deps.json
+G:\dotNet\LogicalQuestions\primeNumber\bin\Debug\net9.0\primeNumber.runtimeconfig.json
+G:\dotNet\LogicalQuestions\primeNumber\bin\Debug\net9.0\primeNumber.dll
+G:\dotNet\LogicalQuestions\primeNumber\bin\Debug\net9.0\primeNumber.pdb
+G:\dotNet\LogicalQuestions\primeNumber\obj\Debug\net9.0\primeNumber.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\primeNumber\obj\Debug\net9.0\primeNumber.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\primeNumber\obj\Debug\net9.0\primeNumber.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\primeNumber\obj\Debug\net9.0\primeNumber.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\primeNumber\obj\Debug\net9.0\primeNumber.sourcelink.json
+G:\dotNet\LogicalQuestions\primeNumber\obj\Debug\net9.0\primeNumber.dll
+G:\dotNet\LogicalQuestions\primeNumber\obj\Debug\net9.0\refint\primeNumber.dll
+G:\dotNet\LogicalQuestions\primeNumber\obj\Debug\net9.0\primeNumber.pdb
+G:\dotNet\LogicalQuestions\primeNumber\obj\Debug\net9.0\primeNumber.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\primeNumber\obj\Debug\net9.0\ref\primeNumber.dll
