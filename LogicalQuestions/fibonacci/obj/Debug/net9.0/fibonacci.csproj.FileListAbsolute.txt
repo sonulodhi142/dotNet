@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\fibonacci\obj\Debug\net9.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\fibonacci\obj\Debug\net9.0\fibonacci.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\fibonacci\obj\Debug\net9.0\fibonacci.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\fibonacci\obj\Debug\net9.0\fibonacci.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\fibonacci\obj\Debug\net9.0\fibonacci.sourcelink.json
+G:\dotNet\LogicalQuestions\fibonacci\bin\Debug\net9.0\fibonacci.exe
+G:\dotNet\LogicalQuestions\fibonacci\bin\Debug\net9.0\fibonacci.deps.json
+G:\dotNet\LogicalQuestions\fibonacci\bin\Debug\net9.0\fibonacci.runtimeconfig.json
+G:\dotNet\LogicalQuestions\fibonacci\bin\Debug\net9.0\fibonacci.dll
+G:\dotNet\LogicalQuestions\fibonacci\bin\Debug\net9.0\fibonacci.pdb
+G:\dotNet\LogicalQuestions\fibonacci\obj\Debug\net9.0\fibonacci.dll
+G:\dotNet\LogicalQuestions\fibonacci\obj\Debug\net9.0\refint\fibonacci.dll
+G:\dotNet\LogicalQuestions\fibonacci\obj\Debug\net9.0\fibonacci.pdb
+G:\dotNet\LogicalQuestions\fibonacci\obj\Debug\net9.0\fibonacci.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\fibonacci\obj\Debug\net9.0\ref\fibonacci.dll
