@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\starPatter\bin\Debug\net9.0\starPatter.exe
+G:\dotNet\LogicalQuestions\starPatter\bin\Debug\net9.0\starPatter.deps.json
+G:\dotNet\LogicalQuestions\starPatter\bin\Debug\net9.0\starPatter.runtimeconfig.json
+G:\dotNet\LogicalQuestions\starPatter\bin\Debug\net9.0\starPatter.dll
+G:\dotNet\LogicalQuestions\starPatter\bin\Debug\net9.0\starPatter.pdb
+G:\dotNet\LogicalQuestions\starPatter\obj\Debug\net9.0\starPatter.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\starPatter\obj\Debug\net9.0\starPatter.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\starPatter\obj\Debug\net9.0\starPatter.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\starPatter\obj\Debug\net9.0\starPatter.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\starPatter\obj\Debug\net9.0\starPatter.sourcelink.json
+G:\dotNet\LogicalQuestions\starPatter\obj\Debug\net9.0\starPatter.dll
+G:\dotNet\LogicalQuestions\starPatter\obj\Debug\net9.0\refint\starPatter.dll
+G:\dotNet\LogicalQuestions\starPatter\obj\Debug\net9.0\starPatter.pdb
+G:\dotNet\LogicalQuestions\starPatter\obj\Debug\net9.0\starPatter.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\starPatter\obj\Debug\net9.0\ref\starPatter.dll
