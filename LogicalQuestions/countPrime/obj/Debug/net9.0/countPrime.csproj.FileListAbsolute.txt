@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\countPrime\obj\Debug\net9.0\countPrime.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\countPrime\obj\Debug\net9.0\countPrime.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\countPrime\obj\Debug\net9.0\countPrime.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\countPrime\obj\Debug\net9.0\countPrime.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\countPrime\obj\Debug\net9.0\countPrime.sourcelink.json
+G:\dotNet\LogicalQuestions\countPrime\bin\Debug\net9.0\countPrime.exe
+G:\dotNet\LogicalQuestions\countPrime\bin\Debug\net9.0\countPrime.deps.json
+G:\dotNet\LogicalQuestions\countPrime\bin\Debug\net9.0\countPrime.runtimeconfig.json
+G:\dotNet\LogicalQuestions\countPrime\bin\Debug\net9.0\countPrime.dll
+G:\dotNet\LogicalQuestions\countPrime\bin\Debug\net9.0\countPrime.pdb
+G:\dotNet\LogicalQuestions\countPrime\obj\Debug\net9.0\countPrime.dll
+G:\dotNet\LogicalQuestions\countPrime\obj\Debug\net9.0\refint\countPrime.dll
+G:\dotNet\LogicalQuestions\countPrime\obj\Debug\net9.0\countPrime.pdb
+G:\dotNet\LogicalQuestions\countPrime\obj\Debug\net9.0\countPrime.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\countPrime\obj\Debug\net9.0\ref\countPrime.dll
