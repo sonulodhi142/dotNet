@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "gusseNunber/1.0.0": {
+        "runtime": {
+          "gusseNunber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gusseNunber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

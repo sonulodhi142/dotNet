@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\gusseNunber\bin\Debug\net9.0\gusseNunber.exe
+G:\dotNet\LogicalQuestions\gusseNunber\bin\Debug\net9.0\gusseNunber.deps.json
+G:\dotNet\LogicalQuestions\gusseNunber\bin\Debug\net9.0\gusseNunber.runtimeconfig.json
+G:\dotNet\LogicalQuestions\gusseNunber\bin\Debug\net9.0\gusseNunber.dll
+G:\dotNet\LogicalQuestions\gusseNunber\bin\Debug\net9.0\gusseNunber.pdb
+G:\dotNet\LogicalQuestions\gusseNunber\obj\Debug\net9.0\gusseNunber.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\gusseNunber\obj\Debug\net9.0\gusseNunber.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\gusseNunber\obj\Debug\net9.0\gusseNunber.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\gusseNunber\obj\Debug\net9.0\gusseNunber.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\gusseNunber\obj\Debug\net9.0\gusseNunber.sourcelink.json
+G:\dotNet\LogicalQuestions\gusseNunber\obj\Debug\net9.0\gusseNunber.dll
+G:\dotNet\LogicalQuestions\gusseNunber\obj\Debug\net9.0\refint\gusseNunber.dll
+G:\dotNet\LogicalQuestions\gusseNunber\obj\Debug\net9.0\gusseNunber.pdb
+G:\dotNet\LogicalQuestions\gusseNunber\obj\Debug\net9.0\gusseNunber.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\gusseNunber\obj\Debug\net9.0\ref\gusseNunber.dll
