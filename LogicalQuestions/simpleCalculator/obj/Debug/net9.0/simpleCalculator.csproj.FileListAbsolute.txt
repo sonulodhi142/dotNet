@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\simpleCalculator\bin\Debug\net9.0\simpleCalculator.exe
+G:\dotNet\LogicalQuestions\simpleCalculator\bin\Debug\net9.0\simpleCalculator.deps.json
+G:\dotNet\LogicalQuestions\simpleCalculator\bin\Debug\net9.0\simpleCalculator.runtimeconfig.json
+G:\dotNet\LogicalQuestions\simpleCalculator\bin\Debug\net9.0\simpleCalculator.dll
+G:\dotNet\LogicalQuestions\simpleCalculator\bin\Debug\net9.0\simpleCalculator.pdb
+G:\dotNet\LogicalQuestions\simpleCalculator\obj\Debug\net9.0\simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\simpleCalculator\obj\Debug\net9.0\simpleCalculator.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\simpleCalculator\obj\Debug\net9.0\simpleCalculator.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\simpleCalculator\obj\Debug\net9.0\simpleCalculator.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\simpleCalculator\obj\Debug\net9.0\simpleCalculator.sourcelink.json
+G:\dotNet\LogicalQuestions\simpleCalculator\obj\Debug\net9.0\simpleCalculator.dll
+G:\dotNet\LogicalQuestions\simpleCalculator\obj\Debug\net9.0\refint\simpleCalculator.dll
+G:\dotNet\LogicalQuestions\simpleCalculator\obj\Debug\net9.0\simpleCalculator.pdb
+G:\dotNet\LogicalQuestions\simpleCalculator\obj\Debug\net9.0\simpleCalculator.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\simpleCalculator\obj\Debug\net9.0\ref\simpleCalculator.dll
