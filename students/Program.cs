@@ -13,6 +13,7 @@ class Program
         {
             Console.WriteLine("\n\nEnter 1 to view all students:");
             Console.WriteLine("Enter 2 to add student :");
+            Console.WriteLine("Enter 3  to add student :");
             Console.WriteLine("Enter 4 to delete student :");
             Console.WriteLine("Enter 5 to exit:: ");
             Console.Write("enter the choice :: ");
@@ -36,6 +37,7 @@ class Program
                     return;
                 default:
                     Console.WriteLine("\n\nPlease Eenter a vailed choice:-");
+                    break;
             }
         }
 

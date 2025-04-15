@@ -15,6 +15,5 @@ class Program{
             else{
                 Console.WriteLine("Oops ! You gues the wrong number \n\n best of luck for next time \n try again !\n");
             } 
-       
     }
 }
