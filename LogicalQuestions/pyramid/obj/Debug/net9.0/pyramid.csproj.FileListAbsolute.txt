@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\pyramid\bin\Debug\net9.0\pyramid.exe
+G:\dotNet\LogicalQuestions\pyramid\bin\Debug\net9.0\pyramid.deps.json
+G:\dotNet\LogicalQuestions\pyramid\bin\Debug\net9.0\pyramid.runtimeconfig.json
+G:\dotNet\LogicalQuestions\pyramid\bin\Debug\net9.0\pyramid.dll
+G:\dotNet\LogicalQuestions\pyramid\bin\Debug\net9.0\pyramid.pdb
+G:\dotNet\LogicalQuestions\pyramid\obj\Debug\net9.0\pyramid.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\pyramid\obj\Debug\net9.0\pyramid.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\pyramid\obj\Debug\net9.0\pyramid.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\pyramid\obj\Debug\net9.0\pyramid.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\pyramid\obj\Debug\net9.0\pyramid.sourcelink.json
+G:\dotNet\LogicalQuestions\pyramid\obj\Debug\net9.0\pyramid.dll
+G:\dotNet\LogicalQuestions\pyramid\obj\Debug\net9.0\refint\pyramid.dll
+G:\dotNet\LogicalQuestions\pyramid\obj\Debug\net9.0\pyramid.pdb
+G:\dotNet\LogicalQuestions\pyramid\obj\Debug\net9.0\pyramid.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\pyramid\obj\Debug\net9.0\ref\pyramid.dll
