@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pyramid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7480f80ee5f4299586dbc1022da8f00c596edd6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2650741219c5d98baf9ab392b6306970ff8b5807")]
 [assembly: System.Reflection.AssemblyProductAttribute("pyramid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pyramid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
