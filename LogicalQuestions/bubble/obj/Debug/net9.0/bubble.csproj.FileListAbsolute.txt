@@ -1,0 +1,15 @@
+G:\dotNet\LogicalQuestions\bubble\obj\Debug\net9.0\bubble.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotNet\LogicalQuestions\bubble\obj\Debug\net9.0\bubble.AssemblyInfoInputs.cache
+G:\dotNet\LogicalQuestions\bubble\obj\Debug\net9.0\bubble.AssemblyInfo.cs
+G:\dotNet\LogicalQuestions\bubble\obj\Debug\net9.0\bubble.csproj.CoreCompileInputs.cache
+G:\dotNet\LogicalQuestions\bubble\obj\Debug\net9.0\bubble.sourcelink.json
+G:\dotNet\LogicalQuestions\bubble\bin\Debug\net9.0\bubble.exe
+G:\dotNet\LogicalQuestions\bubble\bin\Debug\net9.0\bubble.deps.json
+G:\dotNet\LogicalQuestions\bubble\bin\Debug\net9.0\bubble.runtimeconfig.json
+G:\dotNet\LogicalQuestions\bubble\bin\Debug\net9.0\bubble.dll
+G:\dotNet\LogicalQuestions\bubble\bin\Debug\net9.0\bubble.pdb
+G:\dotNet\LogicalQuestions\bubble\obj\Debug\net9.0\bubble.dll
+G:\dotNet\LogicalQuestions\bubble\obj\Debug\net9.0\refint\bubble.dll
+G:\dotNet\LogicalQuestions\bubble\obj\Debug\net9.0\bubble.pdb
+G:\dotNet\LogicalQuestions\bubble\obj\Debug\net9.0\bubble.genruntimeconfig.cache
+G:\dotNet\LogicalQuestions\bubble\obj\Debug\net9.0\ref\bubble.dll
